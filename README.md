@@ -1,2 +1,1 @@
-# salon
-Appointment Scheduler
+Appointment scheduler for a salon.  Includes database to store services offered, customer information, and appointment information.  Also includes an interactive shell script to automatically schedule appointments for customers.
