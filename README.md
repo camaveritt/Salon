@@ -1,1 +1,1 @@
-Automated appointment scheduler for a salon.  Includes dump for database to store services offered, customer information, and appointment information.  Also includes an interactive shell script to automatically schedule appointments for customers and update the database accordingly.
+Appointment scheduler for a salon.  Includes dump for database to store services offered, customer information, and appointment information.  Also includes a shell script to automatically schedule appointments for customers and update the database accordingly.
